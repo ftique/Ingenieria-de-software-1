@@ -22,7 +22,7 @@ Me gustaría desempeñar un rol enfocado en pruebas de calidad. ya que me intere
 Una de mis principales fortalezas es mi capacidad de aprendizaje rápido, lo que me permite usar con facilidad nuevas herramientas, metodologías y tecnologías. Además, tengo buena capacidad de análisis, lo que me ayuda a identificar posibles errores o inconsistencias en los procesos. También tengo pensamiento lógico y atención al detalle que me pueden ayudar a la deteccion de errores.
 
 ### Aspectos a mejorar
-Considero que debo mejorar en el trabajo en equipo, especialmente en la comunicación constante con los demás integrantes del grupo para lograr una mejor coordinación. A veces puedo enfocarme demasiado en mis tareas individuales y debo fortalecer la colaboración activa. También necesito mejorar mi organización del tiempo, planificando mejor mis actividades para evitar acumulación de trabajo y cumplir de manera más eficiente con los plazos establecidos. Trabajar en estos aspectos me permitirá ser un integrante que pueda aportar de manera más efectiva al equipo.
+Considero que debo mejorar en el trabajo en equipo, especialmente en la comunicación constante con los demás integrantes del grupo para lograr una mejor coordinación. A veces puedo enfocarme demasiado en mis tareas individuales y debo fortalecer la colaboración activa. También necesito mejorar mi organización del tiempo, planificando mejor mis actividades para evitar acumulación de trabajo y cumplir de manera más eficiente con los plazos establecidos. "Probando los conflictos". Trabajar en estos aspectos me permitirá ser un integrante que pueda aportar de manera más efectiva al equipo.
 
 ## Pregunta 2 
 
