@@ -41,7 +41,7 @@ Los aspectos que considero debo trabajar para mejorar mi trabajo en equipo son p
 
 ### Compromisos del grupo
 - Usaremos el tablero Kanban para organizar las tareas, las que estan por hacer, las que estan en proceso, las que estan por revisar y las ya hechas, para evitar tareas faltantes o trabajo duplicado.
-- la frecuencia para hecr los trabajos sera una vez semanal.
+- la frecuencia de reuniones de trabajos sera una vez semanal.
 - Reglas básicas uso GitHub: No hacer cambios directos a la rama principal sin avisar, todo camnbio a main sera por Pull Resquest, cada uno tendra una rama propia, las ramas deben tener nombres claros y actualizar repositorio siempre antes de trabajar.
 - Nos comprometemos a avisar con minimo 3 dias de anticipación la incapacidad de hacer una tarea, ademas cada uno podra fallar maximo dos tareas, si sobrepasa este numero procederemos a hablar con el docente esa situación.
 - Las decisiones se tomaran de forma grupal y democratica, todos argumentamos nuestras posturas y las pondremos a votación.
