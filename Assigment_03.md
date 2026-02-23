@@ -3,7 +3,7 @@
 
 ## Pregunta 1
 
-### Rol que me gustaría desempeñar
+### Papel que me gustaría desempeñar
 El tipo de rol que me gustaría es el de organizar y facilitar, porque me gusta organizar me gusta tener control de todas la actividades del dia a dia.
 
 ### Fortalezas
