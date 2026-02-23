@@ -35,7 +35,7 @@ La verdad me interesa tanto el desarrollo de Frontend como del Backend así que 
 En cuanto a fortalezas técnicas poseo no mucho más que los conocimientos que se adquieren hasta este punto de la carrera como programación básica, orientada a objetos, manejo de bases de datos con SQL y estructuras de datos. Ya a nivel de fortalezas en habilidades blandas y para el trabajo en equipo considero que soy bueno comunicándome, proponiendo ideas, siendo proactivo y en especial tratando de explorar otras perspectivas diferentes a las mías en las formas de abordar un problema.
 
 ### Aspectos a mejorar
-Los aspectos que considero debo trabajar para mejorar mi trabajo en equipo son principalmente relacionados al manejo del tiempo y la productividad, así como pedir más ayuda cuando me sienta estancado con alguna tarea que se me delegó, ya sea con los mismos compañeros de equipo o incluso con el profesor o algún monitor en este caso específico. 
+Los puntos que creo que debo trabajar para optimizar mi trabajo en equipo están principalmente vinculados con la gestión del tiempo y la productividad, además de solicitar más ayuda cuando me sienta estancado con algún trabajo que se me ha asignado, ya sea con los mismos compañeros o incluso con el profesor o un monitor en este caso específico. 
 
 ## Pregunta 2 
 
