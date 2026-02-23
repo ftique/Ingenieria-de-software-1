@@ -40,9 +40,8 @@ Los puntos que creo que debo trabajar para optimizar mi trabajo en equipo están
 ## Pregunta 2 
 
 ### Compromisos del grupo
-- Usaremos el tablero Kanban para organizar las tareas, las que estan por hacer, las que estan en proceso, las que estan por revisar y las ya hechas, para evitar tareas faltantes o trabajo duplicado.
-- la frecuencia para hecr los trabajos sera una vez semanal.
-- Reglas básicas uso GitHub: No hacer cambios directos a la rama principal sin avisar, todo camnbio a main sera por Pull Resquest, cada uno tendra una rama propia, las ramas deben tener nombres claros y actualizar repositorio siempre antes de trabajar.
+- Para prevenir que falten tareas o que se duplique trabajo, utilizaremos el tablero Kanban para organizar las actividades: las que están pendientes, las que están en proceso, las que han sido revisadas y las ya completadas..
+-- Reglas básicas uso GitHub: No hacer cambios directos a la rama principal sin avisar, todo camnbio a main sera por Pull Resquest, cada uno tendra una rama propia, las ramas deben tener nombres claros y actualizar repositorio siempre antes de trabajar.
 - Nos comprometemos a avisar con minimo 3 dias de anticipación la incapacidad de hacer una tarea, ademas cada uno podra fallar maximo dos tareas, si sobrepasa este numero procederemos a hablar con el docente esa situación.
 - Las decisiones seran tomadas en grupo con democracia y comunicacion.
 
